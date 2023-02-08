@@ -13,7 +13,7 @@ as stated above the main purpose is to provide simple examples for git training 
 
 ## Deployment
 It is a simple web project, deployment can be on any web server or even local file system.
-Just adding some text to commit
+Just adding some text to commit.adding more text .Now I will not add this.
 
 
 ## How to contribute
