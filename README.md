@@ -17,7 +17,7 @@ Just adding some text to commit.adding more text .Now I will not add this.
 
 
 ## How to contribute
-Try to give your best!
+Try to update and fork the repository.
 
 ## Copyright
 NAchiketMohanty@Scaledge
