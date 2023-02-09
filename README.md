@@ -20,4 +20,4 @@ Just adding some text to commit.adding more text .Now I will not add this.
 Try to update and fork the repository.
 
 ## Copyright
-NAchiketMohanty@Scaledge
+NAchiketMohanty@Scaledge.All copyrights are reserved.
