@@ -1,7 +1,7 @@
 # Starter Web Repo
 This is a simple website project for showing how to use git and github together
 Adding some dommy text.Adding some more dommy text 
-
+trying stash
 
 ## Introduction
 This is an example to show different parts of git repository and various commands using a web project.
