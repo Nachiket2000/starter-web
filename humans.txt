@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    NachiketMohanty nachiket@scaledge.io
 
 # THANKS
 
